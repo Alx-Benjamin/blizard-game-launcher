@@ -1,0 +1,6 @@
+9/2 23:14:56.962  Connecting to Battle.net...
+9/2 23:14:57.118      querying gateway
+9/2 23:14:57.375      searching for the fastest server
+9/2 23:15:09.911      connection to server canceled
+9/2 23:15:10.637  NOTE- ConnectThreadProc: connect didn't link with host (10038)
+9/2 23:15:10.658  Could not connect to Battle.net
